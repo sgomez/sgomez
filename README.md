@@ -1,1 +1,1 @@
-[![Hi! I'm Sergio](assets/me.svg)](https://twitter/sgomez)
+[![Hi! I'm Sergio](assets/me.png)](https://twitter/sgomez)
